@@ -1,0 +1,7 @@
+C:\Users\Matthew Shanor\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\Matthew Shanor\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe
+C:\Users\Matthew Shanor\source\repos\Tasks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\Matthew Shanor\source\repos\Tasks\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+C:\Users\Matthew Shanor\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Shanor\source\repos\Tasks\Tasks\obj\Debug\Tasks.exe
+C:\Users\Matthew Shanor\source\repos\Tasks\Tasks\obj\Debug\Tasks.pdb
